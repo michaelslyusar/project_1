@@ -1,0 +1,14 @@
+#answers{
+    border: 2px black solid;
+    min-height: 300px;
+    padding:20px;
+}
+
+.main-window{
+    padding:50px;
+}
+
+.mouse-over-btn{
+    background-color: green;
+    color:white;
+}
