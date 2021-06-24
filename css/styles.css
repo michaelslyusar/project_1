@@ -1,0 +1,31 @@
+span{
+    color:red;
+    font-weight: 600;
+}
+.wrapper{
+    display:grid;
+    grid-column: auto auto;
+    padding:20px;
+}
+
+.inputDiv{
+    margin-bottom: 20px;
+}
+#answers{
+    border: 2px black solid;
+    min-height: 300px;
+    padding:20px;
+}
+
+#mainHeading{
+    text-align: center;
+}
+
+#formDiv{
+    margin:auto;
+}
+
+.mouse-over-btn{
+    background-color: green;
+    color:white;
+}
